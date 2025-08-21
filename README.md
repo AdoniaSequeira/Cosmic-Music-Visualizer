@@ -44,18 +44,18 @@
 ## 📚 References & Inspiration
 Technical Resources
 
-p5.js Reference
-p5.sound Reference
-Web Audio API
+- p5.js Reference
+- p5.sound Reference
+- Web Audio API
 
 Community Inspiration
-Sophi333 – Starter sketch & UI patterns
-jonfroehlich – Multi-element audio reactions
-p5.js Community – Creative coding examples
+- Sophi333 – Starter sketch & UI patterns
+- jonfroehlich – Multi-element audio reactions
+- p5.js Community – Creative coding examples
 
 ---
 
-##🎵 Credits
+## 🎵 Credits
 
 Audio: Royalty-free music from Pixabay
 Visuals: Inspired by p5.js community
