@@ -1,6 +1,16 @@
 # Cosmic-Music-Visualizer
 🎵 Cosmic Music Visualizer is an interactive web app that transforms your music into a mesmerizing starry night sky. As your songs play, stars shimmer, glow, and connect into constellations that move with the rhythm and beat of your audio.
 
+## 🖌️ Why p5.js?
+
+This project leverages **[p5.js](https://p5js.org/)**, a JavaScript library designed to make coding interactive visuals simple and intuitive:  
+- Simplifies working with HTML5 Canvas for dynamic graphics.  
+- Built-in support for audio analysis via **p5.sound**.  
+- Ideal for creative coding, prototyping, and real-time interactive applications.  
+- Encourages experimentation with visual and audio feedback.
+
+---
+
 ## 🚀 Features
 
 - 🎶 **Audio File Support** – Upload any audio file (MP3, WAV).  
